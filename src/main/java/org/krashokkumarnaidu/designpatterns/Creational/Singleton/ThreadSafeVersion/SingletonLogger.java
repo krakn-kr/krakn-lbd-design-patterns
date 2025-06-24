@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.CreationalDesignPatterns.Singleton.ThreadSafeVersion;
+package org.krashokkumarnaidu.designpatterns.Creational.Singleton.ThreadSafeVersion;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

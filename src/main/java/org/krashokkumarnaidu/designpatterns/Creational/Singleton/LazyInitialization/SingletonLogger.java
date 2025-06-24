@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.CreationalDesignPatterns.Singleton.LazyInitialization;
+package org.krashokkumarnaidu.designpatterns.Creational.Singleton.LazyInitialization;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

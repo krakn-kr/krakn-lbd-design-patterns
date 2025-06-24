@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.CreationalDesignPatterns.Singleton.EagerInitialization;
+package org.krashokkumarnaidu.designpatterns.Creational.Singleton.EagerInitialization;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

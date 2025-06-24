@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.CreationalDesignPatterns.Singleton.ThreadSafeVersion;
+package org.krashokkumarnaidu.designpatterns.Creational.Singleton.LazyInitialization;
 
 import java.util.Collections;
 import java.util.HashSet;

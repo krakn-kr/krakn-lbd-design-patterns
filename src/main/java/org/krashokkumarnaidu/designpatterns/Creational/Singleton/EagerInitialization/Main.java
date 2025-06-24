@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.CreationalDesignPatterns.Singleton.EagerInitialization;
+package org.krashokkumarnaidu.designpatterns.Creational.Singleton.EagerInitialization;
 
 public class Main {
     public static void main(String[] args) {

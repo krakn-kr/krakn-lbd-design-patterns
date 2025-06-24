@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.CreationalDesignPatterns.Singleton.LazyInitialization;
+package org.krashokkumarnaidu.designpatterns.Creational.Singleton.ThreadSafeVersion;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
