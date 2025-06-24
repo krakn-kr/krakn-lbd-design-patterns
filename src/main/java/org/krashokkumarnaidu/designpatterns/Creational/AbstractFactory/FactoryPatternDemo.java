@@ -269,3 +269,4 @@ public class FactoryPatternDemo {
         System.out.println("• Abstract Factory ensures all objects work together cohesively");
     }
 }
+
