@@ -1,6 +1,6 @@
-package org.krashokkumarnaidu.designpatterns.Structural.Adapter.decorator.exampleOne.Decorator;
+package org.krashokkumarnaidu.designpatterns.Structural.Decorator.exampleOne.Decorator;
 
-import org.krashokkumarnaidu.designpatterns.Structural.Adapter.decorator.exampleOne.component.Pizza;
+import org.krashokkumarnaidu.designpatterns.Structural.Decorator.exampleOne.component.Pizza;
 
 // Decorator
 public abstract class PizzaDecorator implements Pizza {

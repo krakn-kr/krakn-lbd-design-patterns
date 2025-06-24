@@ -1,4 +1,4 @@
-package org.krashokkumarnaidu.designpatterns.Structural.Adapter.decorator.exampleOne;
+package org.krashokkumarnaidu.designpatterns.Structural.Decorator.exampleOne;
 
 interface Pizza {
     String getDescription();
