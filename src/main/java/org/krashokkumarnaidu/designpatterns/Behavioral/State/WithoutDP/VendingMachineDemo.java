@@ -146,7 +146,9 @@ class VendingMachine {
     public boolean hasCoin() { return coinCount > 0; }
     public boolean hasProduct() { return hasProduct; }
 }
-
+/*
+https://claude.ai/chat/e9c92715-7aad-4646-82ba-d541b9523a64
+ */
 // Demo class
 public class VendingMachineDemo {
     public static void main(String[] args) {

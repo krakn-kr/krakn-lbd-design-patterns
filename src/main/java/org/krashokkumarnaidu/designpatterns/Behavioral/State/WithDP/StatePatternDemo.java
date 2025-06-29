@@ -185,7 +185,9 @@ class SoldOutState implements VendingMachineState {
         return "Sold Out State";
     }
 }
-
+/*
+https://claude.ai/chat/e9c92715-7aad-4646-82ba-d541b9523a64
+ */
 // Demo class
 public class StatePatternDemo {
     public static void main(String[] args) {
